@@ -1,0 +1,7 @@
+.authenticated{
+    display: none;
+}
+
+.backgroundImage {
+    background-image : 'url(../assets/backgroundimage.jpg)';
+}
